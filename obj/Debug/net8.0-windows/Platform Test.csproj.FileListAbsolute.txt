@@ -1,0 +1,18 @@
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform_Test.Form1.resources
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform_Test.Properties.Resources.resources
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.csproj.GenerateResource.cache
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.AssemblyInfoInputs.cache
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.AssemblyInfo.cs
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.csproj.CoreCompileInputs.cache
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.sourcelink.json
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\bin\Debug\net8.0-windows\Platform Test.exe
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\bin\Debug\net8.0-windows\Platform Test.deps.json
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\bin\Debug\net8.0-windows\Platform Test.runtimeconfig.json
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\bin\Debug\net8.0-windows\Platform Test.dll
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\bin\Debug\net8.0-windows\Platform Test.pdb
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.dll
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\refint\Platform Test.dll
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.pdb
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\Platform Test.genruntimeconfig.cache
+C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Platform Test\obj\Debug\net8.0-windows\ref\Platform Test.dll
