@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Platform Test\\Platform Test.csproj",
-      "projectName": "Platform Test",
-      "projectPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Platform Test\\Platform Test.csproj",
+      "projectUniqueName": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Platform Test\\OTGWPlatformer.csproj",
+      "projectName": "OTGWPlatformer",
+      "projectPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Platform Test\\OTGWPlatformer.csproj",
       "packagesPath": "C:\\Users\\Holli\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Platform Test\\obj\\",
       "projectStyle": "PackageReference",
